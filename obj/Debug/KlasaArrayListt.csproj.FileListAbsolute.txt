@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\KlasaArrayListt\bin\Debug\KlasaArrayListt.exe.config
+C:\Users\ucenik\source\repos\KlasaArrayListt\bin\Debug\KlasaArrayListt.exe
+C:\Users\ucenik\source\repos\KlasaArrayListt\bin\Debug\KlasaArrayListt.pdb
+C:\Users\ucenik\source\repos\KlasaArrayListt\obj\Debug\KlasaArrayListt.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\KlasaArrayListt\obj\Debug\KlasaArrayListt.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\KlasaArrayListt\obj\Debug\KlasaArrayListt.Form1.resources
+C:\Users\ucenik\source\repos\KlasaArrayListt\obj\Debug\KlasaArrayListt.Properties.Resources.resources
+C:\Users\ucenik\source\repos\KlasaArrayListt\obj\Debug\KlasaArrayListt.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\KlasaArrayListt\obj\Debug\KlasaArrayListt.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\KlasaArrayListt\obj\Debug\KlasaArrayListt.exe
+C:\Users\ucenik\source\repos\KlasaArrayListt\obj\Debug\KlasaArrayListt.pdb
